@@ -22,7 +22,7 @@ Clone the repository
 
 The deployed application should look something like this:
 
-![Screenshot of the application.]()
+![Screenshot of the application.](https://cdn.discordapp.com/attachments/1096269634539376681/1129303756652159007/Untitled__Jul_13_2023_11_48_PM.gif)
 
 [Click this for the screenrecording of the application as a video.](https://github.com/niko-vu/steelwool-bob/blob/main/assets/screenrecording.webm)
 
