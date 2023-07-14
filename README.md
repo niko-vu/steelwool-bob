@@ -13,21 +13,23 @@ An application that is capable of managing an employee database using Node.js, I
 
 ## Installation
 
-xyz
+Clone the repository
 
 ## Usage
 
-1. xyz
+1.
+2. 
 
 The deployed application should look something like this:
 
 ![Screenshot of the application.]()
 
-[Click this for the screenrecording of the application as a video.](https://github.com/niko-vu/logo-skimping/blob/main/assets/screenrecording.webm)
+[Click this for the screenrecording of the application as a video.](https://github.com/niko-vu/steelwool-bob/blob/main/assets/screenrecording.webm)
 
 ## Credits
 
-* xyz
+* Used [MySQL 2](https://www.npmjs.com/package/mysql2) and [Inquirer.js](https://www.npmjs.com/package/inquirer/v/8.2.4) in my code for it to function properly.
+* Referenced this Medium article [Let's Build a CLI](https://medium.com/@manavshrivastava/lets-build-a-cli-command-line-interface-with-node-js-d3b5faacc5ea).
 
 ## License
 
