@@ -21,7 +21,7 @@ xyz
 
 The deployed application should look something like this:
 
-![Screenshot of the application.](https://github.com/niko-vu/logo-skimping/blob/main/assets/screenrecordingGIF.gif?raw=true)
+![Screenshot of the application.]()
 
 [Click this for the screenrecording of the application as a video.](https://github.com/niko-vu/logo-skimping/blob/main/assets/screenrecording.webm)
 
